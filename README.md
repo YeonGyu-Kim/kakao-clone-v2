@@ -1,2 +1,2 @@
-# kakao-clone-v2
- Kakao Cloning
+# kakao-clone2.0
+ 
